@@ -1,9 +1,11 @@
 
 ### Hi there 👋
 
-As a skilled self-taught full stack web developer with experience in both frontend and backend technologies, my name is Nnange Awong. I adore using effective development, feature optimization, and persistent debugging to create immersive and captivating user experiences. I enjoy designing aesthetically pleasing and functional user interfaces. Additionally, I am competent in Object-Oriented Programming, Database Management Systems, Operating Systems, and Data Structures and Algorithms. Furthermore, I am currently learning clould technologies such as AWS, configuration technologies which include Ansible, Terraform and Kurbenetes and CICD pipeline tech (Jenkins).
+As a skilled self-taught full stack web developer with experience in both frontend and backend technologies, my name is Nnange Awong. I like using effective development, feature optimization, and persistent debugging to create immersive and captivating user experiences. I enjoy designing aesthetically pleasing and functional user interfaces. Additionally, I am competent in Object-Oriented Programming, Database Management Systems, Operating Systems, and Data Structures and Algorithms. Furthermore, I am currently learning clould technologies such as AWS, configuration technologies which include Ansible, Terraform and Kurbenetes and CICD pipeline tech (Jenkins).
 
 ---
+
+
 
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -33,17 +35,15 @@ src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" 
 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png"/>
 
-
 ---
-<br />
+
 
 <!--
 ### 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnange&show_icons=true&theme=radical)
+![Nnange's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnange&show_icons=true&theme=radical)
 
 <a href="https://github.com/Nnange">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnange&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
 -->
 
-#
